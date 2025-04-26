@@ -1,7 +1,16 @@
 **HR Analytics Dashboard**
 
-This repository contains a Human Resources (HR) Analytics Dashboard built with Power BI.
-The project analyzes employee attrition data to uncover key insights into workforce trends, helping HR teams and leadership make data-driven decisions.
+![image](https://github.com/user-attachments/assets/2f673ef6-b2f4-42cb-a2e9-ddfa82ba2500)
+
+The project analyzes employee attrition data to uncover key insights into workforce trends, helping HR teams and leadership make data-driven decisions. The HR Analytics Dashboard provides an in-depth view of employee attrition across various demographics and organizational factors.
+
+It is designed to help HR departments:
+
+Monitor workforce attrition trends
+Understand risk factors influencing turnover
+Make data-driven HR decisions
+Improve employee retention strategies
+This project uses a dataset containing detailed employee records, visualized through a fully interactive Power BI dashboard.
 
 📊 **Dashboard Overview**
 
