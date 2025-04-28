@@ -18,13 +18,20 @@ The dashboard provides a comprehensive view of employee attrition across multipl
 
 
 **Metric	Value**
+
 Total Employees	1470
+
 Total Attrition	237 employees
+
 Attrition Rate	16%
+
 Average Age	37 years
+
 Average Salary	$7,000
+
 Average Years at Company	7 years
-🔎 Key Visualizations and Insights
+
+🔎 **Key Visualizations and Insights**
 
 **Attrition by Education Field**
 Life Sciences, Marketing, Medical, Technical Degree, Others
